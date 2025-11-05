@@ -2,4 +2,4 @@
 
 ### Greta Wostoupal Portfolio
 
-Hello, my name is Greta! Welcome to my eportfolio!
+Hello, my name is Greta! Welcome to my <b> eportfolio! <b>
